@@ -817,7 +817,7 @@ a{
   font-family: sans-serif;
 }
 #west{
-  background: url(/images/vehicle\ \(1\).jpg) no-repeat center right;
+  background: url("images/vehicle\ \(1\).jpg") no-repeat center right;
   background-size: cover;
 }
 
