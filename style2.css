@@ -817,12 +817,12 @@ a{
   font-family: sans-serif;
 }
 #west{
-  background: url("images/vehicle\ \(1\).jpg") no-repeat center right;
+  background: url("images/vehicle_1.jpg") no-repeat center right;
   background-size: cover;
 }
 
 #east{
-  background: url(/images/vehicle\ \(2\).jpg) no-repeat center bottom;
+  background: url("images/vehicle_2.jpg") no-repeat center bottom;
   background-size: cover;
 
 }
